@@ -1,5 +1,4 @@
 # 202000151-Production-Systems-Engineering-Project-UTwente
-Final Project of the course 191571090, Production Systems Engineering, offered by the Faculty of Engineering Technology, University of Twente.
 
 ## SubSystem Integration and Testing
 
